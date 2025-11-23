@@ -19,3 +19,5 @@ function getPremissions(role: Role): string[] {
       return [];
   }
 }
+
+getPremissions(0);
